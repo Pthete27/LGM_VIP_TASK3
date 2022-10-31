@@ -1,0 +1,59 @@
+#container{
+    display: flex;
+        height: calc(100vh - 9.5em);
+        border: 5px solid rgb(13, 13, 13);   
+}
+
+#Main_Form{
+    font-size: larger;
+    height: 100%;
+    width: 50%;
+    color:rgb(10, 10, 10);
+    background-color: rgb(245, 247, 250);
+}
+
+#Main_table{
+    height: 100%;
+    width: 50%; 
+    color:rgb(244, 234, 234);
+    background-color: rgb(244, 234, 234);
+}
+
+.box{
+    border: 2px solid rgb(11, 11, 11);
+    border-radius: 7px;
+    box-sizing: border-box;
+    height: 33px;
+    width: 20em; 
+    display: flex;
+}
+
+#main_table{
+    margin: auto;
+    height: 60px; 
+}
+.table_head{
+    font-size: 20px;
+    height: 50px;
+}
+.row{
+    padding: 5px;
+}
+
+#tbl{
+    margin: 10px;
+    background-color: antiquewhite;
+    color: rgb(83, 61, 61);
+}
+.btn{
+    font-size: 20px;
+    border-radius: 5px;
+    color: rgb(53, 3, 253);
+    background-color: rgb(248, 242, 242);
+}
+.btn1{
+    font-size: 20px;
+    border-radius: 5px;
+    color:rgb(11, 11, 11);
+    background-color: rgb(250, 244, 244);
+}
